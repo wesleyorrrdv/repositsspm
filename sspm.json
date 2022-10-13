@@ -1,9 +1,10 @@
 [
-  {
-    "id":"1",
-   "nome": "Auto Escola Curvelo”,
-"descricao": "Endereço: R. Joaquim Felício, 259 - Centro, Curvelo - MG”
+  [{"id" :"1",
+"nome":"Autoescola Curvelo”
+,
+"descricao":" Endereço: R. Joaquim Felício, 259 - Centro, Curvelo - MG,”
 },
+
 
  
  {"id" : "2",
@@ -35,10 +36,6 @@
 "descricao": "Endereço: R. Levindo Augusto Pereira, 399 - Sala 101 - Centro, Curvelo - MG",
 },
 
- {
-    "id":"1",
-   "nome": "Auto Escola Curvelo”,
-"descricao": "Endereço: R. Joaquim Felício, 259 - Centro, Curvelo - MG”
-},
+ 
 
 ]
