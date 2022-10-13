@@ -34,6 +34,22 @@
 "nome": "Dr Benigno",
 "descricao": "Endereço: R. Levindo Augusto Pereira, 399 - Sala 101 - Centro, Curvelo - MG",
 },
+  
+  {"id" : "8",
+"nome": "Calazans Foto",
+"descricao": "Pc Benedito Valadares, 37 - Centro, Curvelo - MG"
+},
+
+  {"id" : "9",
+"nome":"Clínica Bem Viver",
+"descricao":"Endereço: R. Levindo Augusto Pereira, 205 - Centro, Curvelo - MG"
+},
+
+{"id" :"10",
+"nome":"Centro De Reabilitacao Marcileia Maria",
+"descricao":"Endereço Avenida Gentil De Matos, 272, Centro - Sala 04 Curvelo-MG"
+
+},
 
  
 
