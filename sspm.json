@@ -101,9 +101,8 @@
 "descricao": "Endereço: Praça Benedito Valadares, 22 - Centro, Curvelo - MG"
 },
    
-   {id :22,
-"nome": "Drogaria Marilda"
-,
+   {"id" :"22",
+"nome": "Drogaria Marilda",
 "descricao": "Endereço: R. Afonso Pena, 71 - Centro, Curvelo - MG, 35790-123"
 },
    
