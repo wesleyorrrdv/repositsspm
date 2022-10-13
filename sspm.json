@@ -56,7 +56,7 @@
 ,
 "descricao":" Endereço: R. Afonso Pena, 135 - Maria Amalia, Curvelo - MG"
 },
-   {"id" :"12:,
+   {"id" :"12",
 "nome":"Laboratório Hemocentro",
 "descricao": "Endereço: R. Visc. de Ouro Preto, 285 - Maria Amalia, Curvelo - MG"
 },
@@ -88,11 +88,30 @@
 "descricao": "Endereço: Av. Dom Pedro II, 321 - Centro, Curvelo - MG"
 },
    {"id" :"19",
-"nome": "PASSO CERTO CALÇADOS"
-,
+"nome": "PASSO CERTO CALÇADOS",
 "descricao": "Endereço: Av. Dom Pedro II, 399 - Centro, Curvelo - MG"
 
    },
+   {"id" :"20",
+"nome":"Viceversa",
+"descricao": "Endereço: Av. Integração Sergio Eugênio da Silva, 722 - Centro, Curvelo - MG"
+},
+   {"id" :"21",
+"nome":"Drogaria Marcelino",
+"descricao": "Endereço: Praça Benedito Valadares, 22 - Centro, Curvelo - MG"
+},
+   
+   {id :22,
+"nome": "Drogaria Marilda"
+,
+"descricao": "Endereço: R. Afonso Pena, 71 - Centro, Curvelo - MG, 35790-123"
+},
+   
+   
+
+
+
+
 
 
 
