@@ -56,6 +56,46 @@
 ,
 "descricao":" Endereço: R. Afonso Pena, 135 - Maria Amalia, Curvelo - MG"
 },
+   {"id" :"12:,
+"nome":"Laboratório Hemocentro",
+"descricao": "Endereço: R. Visc. de Ouro Preto, 285 - Maria Amalia, Curvelo - MG"
+},
+
+{"id" :"13",
+"nome":"Laboratório Sabin",
+"descricao":" Rua Jaquin Felício,248-Centro-Curvelo-MG"
+},
+   {"id" :"14",
+"nome":"Laboratório Saúde e Vida",
+"descricao": "Av.Dep. Renato Azeredo,28 -  Bela Vista - Curvelo-MG"
+},
+   {"id":"15",
+"nome":"Loja do Curtume - Materiais de Construção"
+,
+"descricao":"Endereço: R. Barão Rio Branco, 209 - Centro, Curvelo - MG"
+},
+{"id" :"16",
+"nome": "Loja do Mendes Assistência Técnica"
+,
+"descricao":"Endereço: R. Sete de Setembro, 50 - Centro, Curvelo - MG"
+},
+   {"id" :"17",
+"nome":"Mac-Bel",
+"descricao": "Endereço: Av. Dep. Renato Azeredo, 170 - Bela Vista, Curvelo - MG"
+},
+{"id" :"18",
+"nome": "Nanda Mega Store",
+"descricao": "Endereço: Av. Dom Pedro II, 321 - Centro, Curvelo - MG"
+},
+   {"id" :"19",
+"nome": "PASSO CERTO CALÇADOS"
+,
+"descricao": "Endereço: Av. Dom Pedro II, 399 - Centro, Curvelo - MG"
+
+   },
+
+
+
 
 
 ]
