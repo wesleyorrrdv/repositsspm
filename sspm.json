@@ -1,33 +1,40 @@
 [
   {
     "id":"1",
-    "title":"Santander oferece 50 mil bolsas para cursos de programação",
-   "description":"Para participar do programa, não é necessário ter qualquer graduação ou formação em tecnologia",
-   "image":"https://classic.exame.com/wp-content/uploads/2020/10/santander.jpg?quality=70&strip=info&w=1024",
-   "link":"https://exame.com/carreira/santander-oferece-50-mil-bolsas-para-cursos-de-programacao/" 
-  },
-  {
-    "id":"2",
-    "title":"Santander começa a financiar imóveis na planta. Veja como funciona",
-  "description":"Nova linha terá condições similares às oferecidas pelo banco no financiamento tradicional, com juros a partir de 9,49% ao ano",
-  "image":"https://classic.exame.com/wp-content/uploads/2021/05/santander-banco.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/mercado-imobiliario/santander-financiamento-imoveis-planta/"
-  },
-  
-{
-  "id":"3",
-  "title":"Saiba quanto Piovani e Cardi receberam por propaganda do Santander",
-  "description":"Patricia Abravanel, Luana Piovani, Maíra Cardi e Leandro Firmino apareceram em comerciais do banco Santander no intervalo do reality show e fizeram piada sobre sua relação com os confinados",
-  "image":"https://classic.exame.com/wp-content/uploads/2022/03/luana-piovani.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/pop/bbb-22-saiba-quanto-piovani-e-cardi-receberam-por-propaganda-do-santander/"
-  },
+   "nome":"Autoescola Curvelo”,
+"descricao":"Endereço: R. Joaquim Felício, 259 - Centro, Curvelo - MG”
+},
 
-{
-  "id":"4",
-  "title":"Britânica Revolut, de US$ 33 bi, entra na briga pelo cliente brasileiro",
-  "description":"CEO da Revolut no Brasil, Glauber Mota contou à EXAME Invest os planos no país de uma das maiores fintechs do mundo, que incluem conta com acesso a mais de 25 moedas e super app global",
-  "image":"https://classic.exame.com/wp-content/uploads/2022/03/revolut_fintech_britanica_glauber_mota_ceo.jpg?quality=70&strip=info&w=1024",
-  "link":"https://exame.com/invest/minhas-financas/britanica-revolut-de-us-33-bi-entra-na-briga-pelo-cliente-brasileiro/"
-  }
+  },
+ {"id" : "2",
+"nome": "Auto Escola Santa Helena",
+"descricao": "Praça Tiradentes, 534 - Centro, Curvelo - MG"
+},
+
+  
+{"id":"3",
+"nome": "AUTO ESCOLA BETANIA DE CURVELO",
+"descricao": "Endereço: R. Visc. de Ouro Preto, 129 - Centro, Curvelo - MG"
+},
+
+
+{"id" :"4",
+"nome": "Auto Escola São Geraldo",
+"descricao": "Endereço: R. Pref. Irineu M. Gonzaga, 148 - Centro, Curvelo - MG" 	
+},    
+  {"id" : "5",
+"nome":"Açogue Rocha",
+"descricao": "Av. Dom Pedro II, 675- Centro – Curvelo - MG"
+},
+{"id" :"6",
+"nome": "Casa de carne pais e filhos",
+"descricao": "Av. Bias Fortes,2222"
+},
+{"id" :"7",
+"nome": "Dr Benigno",
+"descricao": "Endereço: R. Levindo Augusto Pereira, 399 - Sala 101 - Centro, Curvelo - MG",
+},
+
+
 
 ]
