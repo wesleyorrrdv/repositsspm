@@ -205,7 +205,7 @@
 "nome":"Tanure Store",
 "descricao": "Endereço: R. Zuzu Angel, 08 - Centro, Curvelo - MG"
 },
-"id" :"44",
+   {"id" :"44",
 "nome":"Blitz",
 "descricao": "Endereço: R. Joaquim Felício, 09 - Centro, Curvelo - MG"
 },
@@ -221,7 +221,7 @@
 },                         
 
 {"id" :"47",
-nome: "Premium UNIP - Cursos Profissionalizante"
+"nome": "Premium UNIP - Cursos Profissionalizante"
 ,
 "descricao": "R. Desembargador Barata, 41 – Centro, Curvelo-MG"
 },
