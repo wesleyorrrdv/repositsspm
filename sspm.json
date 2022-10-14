@@ -193,7 +193,7 @@
 },
    {"id" :"41",
 "nome": "Fausto",
-"descricao": "Endereço: Av. Dom Pedro II, 301 - Centro, Curvelo - MG,
+"descricao": "Endereço: Av. Dom Pedro II, 301 - Centro, Curvelo - MG"
 },
    {"id" :"42",
 "nome":"Alécio Confecções"
@@ -206,7 +206,7 @@
 "descricao": "Endereço: R. Zuzu Angel, 08 - Centro, Curvelo - MG"
 },
 "id" :"44",
-"nome": "Blitz",
+"nome":"Blitz",
 "descricao": "Endereço: R. Joaquim Felício, 09 - Centro, Curvelo - MG"
 },
 
