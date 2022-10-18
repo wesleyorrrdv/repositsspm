@@ -1,226 +1,226 @@
 [
 
-   {"id" : "1",
+   {
 "nome": "Auto Escola Curvelo",
 "descricao": "R. Joaquim Felício, 259 - Centro, Curvelo - MG"
 },
 
  
- {"id" : "2",
+ {
 "nome": "Auto Escola Santa Helena",
 "descricao": "Praça Tiradentes, 534 - Centro, Curvelo - MG"
 },
 
   
-{"id":"3",
+{
 "nome": "Auto Escola Betania",
 "descricao": "Endereço: R. Visc. de Ouro Preto, 129 - Centro, Curvelo - MG"
 },
 
 
-{"id" :"4",
+{
 "nome": "Auto Escola São Geraldo",
 "descricao": "Endereço: R. Pref. Irineu M. Gonzaga, 148 - Centro, Curvelo - MG" 	
 },    
-  {"id" : "5",
+  {
 "nome":"Açogue Rocha",
 "descricao": "Av. Dom Pedro II, 675- Centro – Curvelo - MG"
 },
-{"id" :"6",
+{
 "nome": "Casa de carne pais e filhos",
 "descricao": "Av. Bias Fortes,2222"
 },
-{"id" :"7",
+{
 "nome": "Dr Benigno",
 "descricao": "Endereço: R. Levindo Augusto Pereira, 399 - Sala 101 - Centro, Curvelo - MG",
 },
   
-  {"id" : "8",
+  {
 "nome": "Calazans Foto",
 "descricao": "Pc Benedito Valadares, 37 - Centro, Curvelo - MG"
 },
 
-  {"id" : "9",
+  {
 "nome":"Clínica Bem Viver",
 "descricao":"Endereço: R. Levindo Augusto Pereira, 205 - Centro, Curvelo - MG"
 },
 
-{"id" :"10",
+{
 "nome":"Centro De Reabilitacao Marcileia Maria",
 "descricao":"Endereço Avenida Gentil De Matos, 272, Centro - Sala 04 Curvelo-MG"
 
 },
 
- {"id" :"11",
+ {
 "nome":"Reabilitar - Centro de fisioterapia"
 ,
 "descricao":" Endereço: R. Afonso Pena, 135 - Maria Amalia, Curvelo - MG"
 },
-   {"id" :"12",
+   {
 "nome":"Laboratório Hemocentro",
 "descricao": "Endereço: R. Visc. de Ouro Preto, 285 - Maria Amalia, Curvelo - MG"
 },
 
-{"id" :"13",
+{
 "nome":"Laboratório Sabin",
 "descricao":" Rua Jaquin Felício,248-Centro-Curvelo-MG"
 },
-   {"id" :"14",
+   {
 "nome":"Laboratório Saúde e Vida",
 "descricao": "Av.Dep. Renato Azeredo,28 -  Bela Vista - Curvelo-MG"
 },
-   {"id":"15",
+   {
 "nome":"Loja do Curtume - Materiais de Construção"
 ,
 "descricao":"Endereço: R. Barão Rio Branco, 209 - Centro, Curvelo - MG"
 },
-{"id" :"16",
+{
 "nome": "Loja do Mendes Assistência Técnica"
 ,
 "descricao":"Endereço: R. Sete de Setembro, 50 - Centro, Curvelo - MG"
 },
-   {"id" :"17",
+   {
 "nome":"Mac-Bel",
 "descricao": "Endereço: Av. Dep. Renato Azeredo, 170 - Bela Vista, Curvelo - MG"
 },
-{"id" :"18",
+{
 "nome": "Nanda Mega Store",
 "descricao": "Endereço: Av. Dom Pedro II, 321 - Centro, Curvelo - MG"
 },
-   {"id" :"19",
+   {
 "nome": "PASSO CERTO CALÇADOS",
 "descricao": "Endereço: Av. Dom Pedro II, 399 - Centro, Curvelo - MG"
 
    },
-   {"id" :"20",
+   {
 "nome":"Viceversa",
 "descricao": "Endereço: Av. Integração Sergio Eugênio da Silva, 722 - Centro, Curvelo - MG"
 },
-   {"id" :"21",
+   {
 "nome":"Drogaria Marcelino",
 "descricao": "Endereço: Praça Benedito Valadares, 22 - Centro, Curvelo - MG"
 },
    
-   {"id" :"22",
+   {
 "nome": "Drogaria Marilda",
 "descricao": "Endereço: R. Afonso Pena, 71 - Centro, Curvelo - MG, 35790-123"
 },
-   {"id" :"23",
+   {
 "nome": "Rede Inova Drogarias",
 "descricao": "Endereço: R. Xavier Rolim, 45 - Centro, Curvelo - MG"
 },
-   {"id" : "24",
+   {
 "nome":"Drogaria Americana",
 "descricao": "Endereço: R. Visc. de Ouro Preto, 250 - Centro, Curvelo - MG"
 },
-   {"id" :"25",
+   {
 "nome":"Drogaria Brasil",
     "descricao":" Endereço: R. Visc. de Ouro Preto, 167 - Centro, Curvelo - MG"
 },
-   {"id":"26",
+   {
 "nome":"Drogaria Cristina"
  ,
 "descricao": "Endereço: Praça Benedito Valadares, 209 - Centro, Curvelo - MG"
 },
-   {"id":"27",
+   {
 "nome":"Drogaria Fernandes",
 "descricao": "Endereço: Av. Dep. Renato Azeredo, 06 - Bela Vista, Curvelo - MG"
 },
-   {"id" :"28",
+   {
 "nome": "Barbearia Dias"
 ,
 "descricao": "Endereço: R. Afonso Pena, 93 - Centro, Curvelo – MG"	
 },
    
-   {"id" :"29",
+   {
 "nome": "DCI Informática",
 "descricao": "Endereço: R. Eng. Carlos, 264 - Centro, Curvelo - MG"
 },
 
-{"id":"30",
+{
 "nome": "Copiadora Fênix Ltda",
 "descricao":"Endereço: Pça Benedito Valadares, 41 - Centro, Curvelo - MG"
 },
    
-   {"id" :"31" ,
+   {
 "nome": "Gás Minas",
 "descricao": "Endereço: Av. Dep. Renato Azeredo, 844 - Léo Batista, Curvelo - MG"
 },
-{"id":"32",
+{
 "nome":"Quality Ópticas"
 ,"descricao": "Endereço: Av. Dom Pedro II, 371 - Centro, Curvelo - MG"
 },
 
-   {"id":"33",
+   {
 "nome":"Bikes Pedepato",
 "descricao":" Endereço: Av. Antônio Olinto, 571 - Centro, Curvelo - MG"
 },
    
-   {"id" :"34",
+   {
 "nome":"Rede Santana",
 "descricao":" Endereço: Av. Othon Bezerra de Melo, 2095 - Maria Amalia, Curvelo - MG"
 },
 
-   {"id ":"35",
+   {
 "nome": "Posto Curvelo"
 ,
 "descricao": "Endereço: R. Afonso Pena, 750 - Centro, Curvelo - MG"
 },
 
-   {"id" :"36",
+   {
 "nome":"Supermercado São Geraldo"
  ,
 "descricao":"Endereço: Av. dos Timbiras, 581 - Tibira, Curvelo - MG"
 },
 
-{"id" : "37",
+{
 "nome": "Supermercado Matias",
 "descricao": "Endereço: BR-135 - Jk, Curvelo - MG"
 },
-{"id" :"38",
+{
 "nome":"Mercearia Sempre Viva",
 "descricao": "Endereço: R. Constantino Dutra Amaral, 17 - Centro, Curvelo - MG"
 },
    
-   {"id" :"39",
+   {
 "nome":" Ponto Certo Cereais"
 ,
 "descricao": "Endereço: R. Luiz Euzebio, 505 - Centro, Curvelo - MG"
 },
-   {"id" :"40",
+   {
 "nome":"Mercearia Palmeiras",
 "descricao": "Endereço: R. Dr. Werna, 404 - Bela Vista, Curvelo - MG"
 },
-   {"id" :"41",
+   {
 "nome": "Fausto",
 "descricao": "Endereço: Av. Dom Pedro II, 301 - Centro, Curvelo - MG"
 },
-   {"id" :"42",
+   {
 "nome":"Alécio Confecções"
 ,
 "descricao": "Rua Juvenal Borges 315 no Bairro Centro na Cidade de Curvelo, MG"
 },
 
-{"id" : "43",
+{
 "nome":"Tanure Store",
 "descricao": "Endereço: R. Zuzu Angel, 08 - Centro, Curvelo - MG"
 },
-   {"id" :"44",
+   {
 "nome":"Blitz",
 "descricao": "Endereço: R. Joaquim Felício, 09 - Centro, Curvelo - MG"
 },
 
-{"id" :"45",
+{
 "nome":"Arena Gym",
 "descricao": "Endereço: Av. Dep. Renato Azeredo, 581 - Bela Vista, Curvelo - MG"
 }
 
-{"id" :"46",
+{
 "nome": "UniCesumar",
 "descricao": "Endereço: R. Xavier Rolim, 25 - Centro, Curvelo - MG"
 },                         
 
-{"id" :"47",
+{
 "nome": "Premium UNIP - Cursos Profissionalizante"
 ,
 "descricao": "R. Desembargador Barata, 41 – Centro, Curvelo-MG"
